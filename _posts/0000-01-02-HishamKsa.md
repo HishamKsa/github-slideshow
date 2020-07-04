@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our USA !"
 ---
-ahan 
+USA is a great country. 
 Use the left arrow to go back!
